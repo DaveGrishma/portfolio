@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "coursename":"SSC",
+        "courseyear":"2014",
+        "institute":"Gujarat Secondary and Higher Secondary Education Board",
+        "grade":"97.76% Percentile"
+    },
+    {
+        "id":2,
+        "coursename":"HSC",
+        "courseyear":"2016",
+        "institute":"Gujarat Secondary and Higher Secondary Education Board",
+        "grade":"90% Percentile"
+    },
+    {
+        "id":3,
+        "coursename":"Bachelor of Engineering",
+        "courseyear":"2020",
+        "institute":"Gujarat Technological University",
+        "grade":"8.54 CGPA"
+    }
+]

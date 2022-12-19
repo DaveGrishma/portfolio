@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "MonitAir",
+      "clients": "MonitAir",
+      "role": "IOS Developer",
+      "technologies": "Swift, Remote-Notification and Rest-API",
+      "environment": "MVVM",
+      "tenure": "4 Months",
+      "appstore":"https://apps.apple.com/in/app/monitair-copd/id1478087344"
+    },
+    {
+      "id": 2,
+      "title": "Valrhona",
+      "clients": "Valrhona",
+      "role": "IOS Developer",
+      "technologies": "Swift, CI-CD, Remote-Notification and Rest-API ",
+      "environment": "MVVM",
+      "tenure": "5 Months",
+      "appstore":"https://apps.apple.com/us/app/valrhona/id1472980990"
+    },
+    {
+      "id": 3,
+      "title": "Scriptdoor",
+      "clients": "Scriptdoor",
+      "role": "IOS Developer",
+      "technologies": "RxSwift, Swift, Rest-API, Firebase Notifications, CoreData",
+      "environment": "MVVM",
+      "tenure": "8 Months",
+      "appstore":"https://apps.apple.com/in/app/scriptdoor/id1514571177"
+    }
+]
+  

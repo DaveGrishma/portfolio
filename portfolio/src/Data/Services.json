@@ -1,0 +1,18 @@
+
+[
+    {
+        "id":1,
+        "servicename":"Swift",
+        "imgg":"https://raw.githubusercontent.com/sagarpra98/portfolio/master/src/Data/Serviceimg/swift.png"        
+    },
+    {
+        "id":2,
+        "servicename":"Interface / App Design",
+        "imgg":"https://raw.githubusercontent.com/sagarpra98/portfolio/master/src/Data/Serviceimg/applelogo.png"
+    },
+    {
+        "id":3,
+        "servicename":"C / C++",
+        "imgg":"https://raw.githubusercontent.com/sagarpra98/portfolio/master/src/Data/Serviceimg/cplush.png"
+    }
+]
